@@ -30,7 +30,6 @@ export default {
     },
     methods: {
         updateSelectedChild (node) {
-            console.log("selected node: ", node.children)
             if (this.selectedNode == node){
                 this.selectedNode = null
                 this.selectedNodeChildren = null
@@ -40,11 +39,6 @@ export default {
                 this.selectedNode = node
             }
         }
-    },
-    mounted() {
-        // console.log("level")
-        // console.log(this.root)
-        console.log("root: ", this.root)
     }
 }
 </script>
