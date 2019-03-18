@@ -31,7 +31,7 @@ export default {
 .body {
     background-color: peru;
     width: 250px;
-    height: 260px;
+    height: 150px;
     border-radius: 5px;
     float: left;
 }
