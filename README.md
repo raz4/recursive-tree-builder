@@ -1,4 +1,4 @@
-# tree-demo
+# Recursive Tree Builder
 
 ## Project setup
 ```
