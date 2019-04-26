@@ -1,7 +1,5 @@
 # Recursive Tree Builder
 
-Live Demo: http://35.227.161.249/
-
 ## Project setup
 ```
 npm install
